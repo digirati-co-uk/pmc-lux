@@ -1,0 +1,217 @@
+{
+    "author": {
+        "_activity": "Production",
+        "id": "http://vocab.getty.edu/aat/300025492",
+        "type": "Type",
+        "_label": "author"
+    },
+    "foreword by": {
+        "_activity": "Production",
+        "id": "http://vocab.getty.edu/aat/300403974",
+        "type": "Type",
+        "_label": "contributor",
+        "_note": "aat/300055032 is prefaces, but that's not an actor's role"
+    },
+    "artist": {
+        "_activity": "Production",
+        "id": "http://vocab.getty.edu/aat/300025103",
+        "type": "Type",
+        "_label": "artist"
+    },
+    "editor": {
+        "_activity": "Production",
+        "id": "http://vocab.getty.edu/aat/300025526",
+        "type": "Type",
+        "_label": "editor"
+    },
+    "curator": {
+        "_activity": "Production",
+        "id": "http://vocab.getty.edu/aat/300025633",
+        "type": "Type",
+        "_label": "curator"
+    },
+    "essay by": {
+        "_activity": "Production",
+        "id": "http://vocab.getty.edu/aat/300025499",
+        "type": "Type",
+        "_label": "essayist",
+        "_note": "The term 'essayist' is NOT in yul-role_mappings.json but is in AAT - should it instead be 'contributor'?"
+    },
+    "introduction by": {
+        "_activity": "Production",
+        "id": "http://vocab.getty.edu/aat/300403974",
+        "type": "Type",
+        "_label": "contributor",
+        "_note": "No AAT term that feels right here"
+    },
+    "contributor": {
+        "_activity": "Production",
+        "id": "http://vocab.getty.edu/aat/300403974",
+        "type": "Type",
+        "_label": "contributor"
+    },
+    "translator": {
+        "_activity": "Production",
+        "id": "http://vocab.getty.edu/aat/300025601",
+        "type": "Type",
+        "_label": "translator"
+    },
+    "preface by": {
+        "_activity": "Production",
+        "id": "http://vocab.getty.edu/aat/300403974",
+        "type": "Type",
+        "_label": "contributor",
+        "_note": "No AAT term that feels right here"
+    },
+    "compiler": {
+        "_activity": "Production",
+        "id": "http://vocab.getty.edu/aat/300121766",
+        "type": "Type",
+        "_label": "compiler"
+    },
+    "engraver": {
+        "_activity": "Production",
+        "id": "http://vocab.getty.edu/aat/300239410",
+        "type": "Type",
+        "_label": "engraver"
+    },
+    "former owner": {
+        "_activity": "Provenance",
+        "id": "http://id.loc.gov/vocabulary/relators/fmo",
+        "type": "Type",
+        "_label": "former owner",
+        "_note": "How to model this simply and consistently... or maybe not consistently. Also note not AAT"
+    },
+    "donor": {
+        "_activity": "Provenance",
+        "id": "http://vocab.getty.edu/aat/300025240",
+        "type": "Type",
+        "_label": "donor",
+        "_note": "another provenance activity"
+    },
+    "publisher": {
+        "_activity": "Publication",
+        "id": "http://vocab.getty.edu/aat/300025574",
+        "type": "Type",
+        "_label": "publisher",
+        "_note": "note: activity type is Publication"
+    },
+    "printer": {
+        "_activity": "Production",
+        "id": "http://vocab.getty.edu/aat/300025733",
+        "type": "Type",
+        "_label": "printer"
+    },
+    "illustrator": {
+        "_activity": "Production",
+        "id": "http://vocab.getty.edu/aat/300025123",
+        "type": "Type",
+        "_label": "illustrator"
+    },
+    "bookseller": {
+        "_activity": "Publication",
+        "id": "http://vocab.getty.edu/aat/300025244",
+        "type": "Type",
+        "_label": "bookseller"
+    },
+    "photographer": {
+        "_activity": "Production",
+        "id": "http://vocab.getty.edu/aat/300025687",
+        "type": "Type",
+        "_label": "photographer"
+    },
+    "afterword": {
+        "_activity": "Production",
+        "id": "http://vocab.getty.edu/aat/300403974",
+        "type": "Type",
+        "_label": "contributor",
+        "_note": "No AAT term that feels right here"
+    },
+    "commentary by": {
+        "_activity": "Production",
+        "id": "http://vocab.getty.edu/aat/300403974",
+        "type": "Type",
+        "_label": "contributor",
+        "_note": "No AAT term that feels right here"
+    },
+    "co-author": {
+        "_activity": "Production",
+        "id": "http://vocab.getty.edu/aat/300025492",
+        "type": "Type",
+        "_label": "author",
+        "_note": "treat co-author same as author?"
+    },
+    "addressee": {
+        "_activity": "Other",
+        "id": "http://id.loc.gov/vocabulary/relators/rcp",
+        "type": "Type",
+        "_label": "addressee",
+        "_note": "NB not AAT"
+    },
+    "narrated by": {
+        "_activity": "Performance",
+        "id": "http://vocab.getty.edu/aat/300417254",
+        "type": "Type",
+        "_label": "narrator"
+    },
+    "designer": {
+        "_activity": "Production",
+        "id": "http://vocab.getty.edu/aat/300025190",
+        "type": "Type",
+        "_label": "designer"
+    },
+    "reviser": {
+        "_activity": "Production",
+        "id": "http://vocab.getty.edu/aat/300132961",
+        "type": "Type",
+        "_label": "reviser",
+        "_note": "The term 'reviser' is NOT in yul-role_mappings.json but is in AAT - should it instead be 'contributor'?"
+    },
+    "binder": {
+        "_activity": "Production",
+        "id": "http://vocab.getty.edu/aat/300025704",
+        "type": "Type",
+        "_label": "binder"
+    },
+    "arranged by": {
+        "_activity": "Production",
+        "id": "http://vocab.getty.edu/aat/300025667",
+        "type": "Type",
+        "_label": "arranger",
+        "_note": "This *is* from yul-role_mappings.json, but 300025667 is 'arrangers (musicians)'. The bib record is for an exhibition: 'The Pre-Raphaelites as painters and draughtsmen : a loan exhibition from two private collections'"
+    },
+    "attributed name": {
+        "_activity": "Production",
+        "id": "http://vocab.getty.edu/aat/300403974",
+        "type": "Type",
+        "_label": "contributor",
+        "_note": "Example: Whatley, Stephen [active 1712-1741] (attributed name)"
+    },
+    "etcher": {
+        "_activity": "Production",
+        "id": "http://vocab.getty.edu/aat/300025174",
+        "type": "Type",
+        "_label": "etcher"
+    },
+    "words by": {
+        "_activity": "Production",
+        "id": "http://vocab.getty.edu/aat/300403974",
+        "type": "Type",
+        "_label": "contributor",
+        "_note": "Only in one record! Example: McGlashan, Sean (words by)"
+    },
+    "contributing editor": {
+        "_activity": "Production",
+        "id": "http://vocab.getty.edu/aat/300025526",
+        "type": "Type",
+        "_label": "editor",
+        "_note": "Have treated this as editor"
+    },
+    "producer": {
+        "_activity": "Production",
+        "id": "http://vocab.getty.edu/aat/300403974",
+        "type": "Type",
+        "_label": "contributor",
+        "_note": "Only in one record! 'Bruce, Christopher (producer)' in 'Brian Sewell&apos;s grand tour'"
+    }
+}
