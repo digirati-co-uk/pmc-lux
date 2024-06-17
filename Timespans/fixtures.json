@@ -1,0 +1,172 @@
+{
+"1994":
+{
+  "type": "TimeSpan",
+  "_label": "1994",
+  "begin_of_the_begin": "1994-01-01T00:00:00Z",
+  "end_of_the_end": "1994-12-31T23:59:59Z"
+},
+"[2017]":
+{
+  "type": "TimeSpan",
+  "_label": "[2017]",
+  "begin_of_the_begin": "2017-01-01T00:00:00Z",
+  "end_of_the_end": "2017-12-31T23:59:59Z"
+},
+"[198-]":
+{
+  "type": "TimeSpan",
+  "_label": "[198-]",
+  "begin_of_the_begin": "1980-01-01T00:00:00Z",
+  "end_of_the_end": "1989-12-31T23:59:59Z"
+},
+"[196?]":
+{
+  "type": "TimeSpan",
+  "_label": "[196?]",
+  "begin_of_the_begin": "1960-01-01T00:00:00Z",
+  "end_of_the_end": "1969-12-31T23:59:59Z"
+},
+"[1969?]":
+{
+  "type": "TimeSpan",
+  "_label": "[1969?]",
+  "begin_of_the_begin": "1969-01-01T00:00:00Z",
+  "end_of_the_end": "1969-12-31T23:59:59Z"
+},
+"[ca. 1969]":
+{
+  "type": "TimeSpan",
+  "_label": "[ca. 1969]",
+  "begin_of_the_begin": "1969-01-01T00:00:00Z",
+  "end_of_the_end": "1969-12-31T23:59:59Z"
+},
+"c1985":
+{
+  "type": "TimeSpan",
+  "_label": "c1985",
+  "begin_of_the_begin": "1985-01-01T00:00:00Z",
+  "end_of_the_end": "1985-12-31T23:59:59Z"
+},
+"1067":
+{
+  "type": "TimeSpan",
+  "_label": "1067",
+  "begin_of_the_begin": "1067-01-01T00:00:00Z",
+  "end_of_the_end": "1067-12-31T23:59:59Z"
+},
+"[19--]":
+{
+  "type": "TimeSpan",
+  "_label": "[19--]",
+  "begin_of_the_begin": "1900-01-01T00:00:00Z",
+  "end_of_the_end": "1999-12-31T23:59:59Z"
+},
+"[198-?]":
+{
+  "type": "TimeSpan",
+  "_label": "[198-?]",
+  "begin_of_the_begin": "1980-01-01T00:00:00Z",
+  "end_of_the_end": "1989-12-31T23:59:59Z"
+},
+"MDCCCCXXXI [1931]":
+{
+  "type": "TimeSpan",
+  "_label": "MDCCCCXXXI [1931]",
+  "begin_of_the_begin": "1931-01-01T00:00:00Z",
+  "end_of_the_end": "1931-12-31T23:59:59Z"
+},
+"1950- No. 1 (Oct. 1950)-":
+{
+  "type": "TimeSpan",
+  "_label": "1950- No. 1 (Oct. 1950)-",
+  "begin_of_the_begin": "1950-01-01T00:00:00Z",
+  "end_of_the_end": "1950-12-31T23:59:59Z"
+},
+
+
+
+
+"1990-":
+{
+  "type": "TimeSpan",
+  "_label": "1990-",
+  "begin_of_the_begin": "1990-01-01T00:00:00Z",
+  "end_of_the_end": "1990-12-31T23:59:59Z"
+},
+"1994, c1979":
+{
+  "type": "TimeSpan",
+  "_label": "1994, c1979",
+  "begin_of_the_begin": "1994-01-01T00:00:00Z",
+  "end_of_the_end": "1994-12-31T23:59:59Z"
+},
+"c1968 c1976":
+{
+  "type": "TimeSpan",
+  "_label": "c1968 c1976",
+  "begin_of_the_begin": "1968-01-01T00:00:00Z",
+  "end_of_the_end": "1968-12-31T23:59:59Z"
+},
+"Began with v. 1 in 1913.":
+{
+  "type": "TimeSpan",
+  "_label": "Began with v. 1 in 1913.",
+  "begin_of_the_begin": "1913-01-01T00:00:00Z",
+  "end_of_the_end": "1913-12-31T23:59:59Z"
+},
+"1958- Vol. 2 (July 1958)-v. 8 (winter 1967) ; 2nd ser., v. 1 (spring 1968)-v. 10 (winter 1977) ; 3rd ser., v. 1 (spring 1978)-v. 10 (winter 1987) ; 4th ser., v. 1 (spring 1988)-v. 10 (winter 1997) ; 5th ser., v. 1 (spring 1998)-v. 10 (winter 2007) ; 6th ser., (spring 2008)-":
+{
+  "type": "TimeSpan",
+  "_label": "1958- Vol. 2 (July 1958)-v. 8 (winter 1967) ; 2nd ser., v. 1 (spring 1968)-v. 10 (winter 1977) ; 3rd ser., v. 1 (spring 1978)-v. 10 (winter 1987) ; 4th ser., v. 1 (spring 1988)-v. 10 (winter 1997) ; 5th ser., v. 1 (spring 1998)-v. 10 (winter 2007) ; 6th ser., (spring 2008)-",
+  "begin_of_the_begin": "1958-01-01T00:00:00Z",
+  "end_of_the_end": "1958-12-31T23:59:59Z"
+},
+
+
+
+
+
+"1861-1863":
+{
+  "type": "TimeSpan",
+  "_label": "1861-1863",
+  "begin_of_the_begin": "1861-01-01T00:00:00Z",
+  "end_of_the_end": "1862-12-31T23:59:59Z"
+},
+"[Between 2009 and 2016]":
+{
+  "type": "TimeSpan",
+  "_label": "[Between 2009 and 2016]",
+  "begin_of_the_begin": "2009-01-01T00:00:00Z",
+  "end_of_the_end": "2015-12-31T23:59:59Z"
+},
+"[Not after 2002]":
+{
+  "type": "TimeSpan",
+  "_label": "[Not after 2002]",
+  "begin_of_the_begin": "2003-01-01T00:00:00Z",
+  "end_of_the_end": "2003-01-01T23:59:59Z"
+},
+"[Not before 2004]":
+{
+  "type": "TimeSpan",
+  "_label": "[Not before 2004]",
+  "begin_of_the_begin": "2004-01-01T23:59:59Z",
+  "end_of_the_end": "2003-12-31T23:59:59Z"
+},
+"1726-7":
+{
+  "type": "TimeSpan",
+  "_label": "1726-7",
+  "begin_of_the_begin": "1726-07-01T00:00:00\u002B01:00",
+  "end_of_the_end": "1726-07-31T23:59:59\u002B01:00"
+},
+"[Not after April 1989]":
+{
+  "type": "TimeSpan",
+  "_label": "[Not after April 1989]",
+  "begin_of_the_begin": "1989-05-01T00:00:00\u002B01:00",
+  "end_of_the_end": "1989-05-01T23:59:59Z"
+}
+}
