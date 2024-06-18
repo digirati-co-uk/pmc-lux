@@ -1,0 +1,64 @@
+{
+    "BIB": "BIBLIOGRAPHY",
+    "BIBLIOGRAPHY": "300026497",
+    "GEN": "NOTE",
+    "NOTE": "300027200",
+    "DAT": "NOTE",
+    "ACC": "RELATEDMATERIAL",
+    "RELATEDMATERIAL": "300444119",
+    "CON": "TABLEOFCONTENTS",
+    "TABLEOFCONTENTS": "300195187",
+    "PHY": "PHYSDESC",
+    "PHYSDESC": "300435452",
+    "LUG": "NOTE", // NOTE with display name"
+    "SEL": "NOTE", // NOTE with display name
+    "COP": "NOTE", // on HMO
+    "SER": null, //  Series Note. Treat as if in <series>
+    "TIT": null, // Alternate Title.  /identified_by[type=Name]/value  (not primary name)
+    "SBN": null, // ISSN or ISBN. /identified_by[type=Identifier,classified_as=ISBN]/value
+    "RES": "CREATOR", // don't extract entity - just a note
+    "CREATOR": "300435446",
+    "PMC": "CREDITLINE",
+    "CREDITLINE": "300026687",
+    "DIS": "NOTE",
+    "DON": "PROVENANCE",
+    "PROVENANCE": "300435438",
+    "HIS": "NOTE",
+    "ACN": null, // IGNORE  // /identified_by[type=Identifier,classified_as=ACCESSION]/value
+    "ACD": null, // ignore // Accession date. Type: PROVENANCE
+    "HIE": null, // use to help reconcile place .....  If more than one, add a new place of publication.Hierarchical version of the Place of publication. See Place discussion.
+    "LAN": "LANGUAGE",
+    "LANGUAGE": "300435433", // Language note. Type: LANGUAGE
+    "NAT": "DESCRIPTION",
+    "DESCRIPTION": "300435416",
+    "OWN": "PROVENANCE",
+    "REF": "BIBLIOGRAPHY",
+    "VER": "REPRODUCTION",
+    "REPRODUCTION": "300411336",
+    "BSH": null, // oversized, no longer used, ignore
+    "BND": "PHYSDESC",
+    "AUC": "NOTE", // Auction Date, see also DAT. Type: DATING 
+    "EDN": null, // Edition statement. Treat as <edition> if adds more info
+    "FRE": null, // Publication Frequency note for serials. Type: FREQUENCY
+    "USE": null, // copyright fee note? Ignore
+    "BY": null, // no matches... Edition by. Treat as <edition>
+    "ADD": null, // NOTE
+    "PUB": "NOTE", // MAKE into a note on the Publishing Activity.... statement pattern... Publication, Distribution, etc. note. Type PUBLISHING
+    "REL": "NOTE",      // Relationship with other serials. Type: NOTE
+    "IND": "INDEXING",    // Indexes Note. Type: INDEXING
+    "INDEXING": "300054640",
+    "SUM": "DESCRIPTION",  // Summary. Type: DESCRIPTION
+    "AUT": "NOTE", // Authority note. Type: NOTE
+    "CHR": "NOTE", // Chronological (not really?). Type: NOTE
+    "DES": "DESCRIPTION",
+    "ITE": null, // IGNORE Item described. (not really?) Type: NOTE
+    "WIT": "INDEXING",  // "With" note, but all are indexes. Type: INDEXING
+    "CIP": null, // ignore
+    "AUD": null, // ignore
+    "ABS": null, // ignore
+    "CHA": null, // Change of control number, ignore 
+    "HOL": null, // Holdings, ignore
+    "RUN": null, // ignore
+    "SUB": null, // ignore
+    "NUM": null // Numbers borne by the item (e.g. auction catalogs) ignore for now
+}
