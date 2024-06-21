@@ -10,13 +10,13 @@
     "TABLEOFCONTENTS": "300195187",
     "PHY": "PHYSDESC",
     "PHYSDESC": "300435452",
-    "LUG": "NOTE", // NOTE with display name"
-    "SEL": "NOTE", // NOTE with display name
-    "COP": "NOTE", // on HMO
-    "SER": null, //  Series Note. Treat as if in <series>
-    "TIT": null, // Alternate Title.  /identified_by[type=Name]/value  (not primary name)
-    "SBN": null, // ISSN or ISBN. /identified_by[type=Identifier,classified_as=ISBN]/value
-    "RES": "CREATOR", // don't extract entity - just a note
+    "LUG": "NOTE",      "__NOTE_LUG": "(with display name)",
+    "SEL": "NOTE",      "__NOTE_SEL": "(with display name)",
+    "COP": "NOTE",      "__NOTE_COP": "(on HumanMadeObject)",
+    "SER": null,        "__NOTE_SER": "(Series Note. Treat as if in <series>)",
+    "TIT": null,        "__NOTE_TIT": "(Alternate Title.  /identified_by[type=Name]/value  (not primary name))",
+    "SBN": null,        "__NOTE_SBN": "(ISSN or ISBN. /identified_by[type=Identifier,classified_as=ISBN]/value)",
+    "RES": "CREATOR",   "__NOTE_RES": "(// don't extract entity - just a note)",
     "CREATOR": "300435446",
     "PMC": "CREDITLINE",
     "CREDITLINE": "300026687",
@@ -24,41 +24,41 @@
     "DON": "PROVENANCE",
     "PROVENANCE": "300435438",
     "HIS": "NOTE",
-    "ACN": null, // IGNORE  // /identified_by[type=Identifier,classified_as=ACCESSION]/value
-    "ACD": null, // ignore // Accession date. Type: PROVENANCE
-    "HIE": null, // use to help reconcile place .....  If more than one, add a new place of publication.Hierarchical version of the Place of publication. See Place discussion.
-    "LAN": "LANGUAGE",
-    "LANGUAGE": "300435433", // Language note. Type: LANGUAGE
+    "ACN": null,        "__NOTE_ACN": "(IGNORE! /identified_by[type=Identifier,classified_as=ACCESSION]/value)",
+    "ACD": null,        "__NOTE_ACD": "(IGNORE! Accession date. Type: PROVENANCE)",
+    "HIE": null,        "__NOTE_HIE": "(use to help reconcile place .....  If more than one, add a new place of publication.Hierarchical version of the Place of publication. See Place discussion.)",
+    "LAN": "LANGUAGE",  "__NOTE_LAN": "(// Language note. Type: LANGUAGE)",
+    "LANGUAGE": "300435433", 
     "NAT": "DESCRIPTION",
     "DESCRIPTION": "300435416",
     "OWN": "PROVENANCE",
     "REF": "BIBLIOGRAPHY",
     "VER": "REPRODUCTION",
     "REPRODUCTION": "300411336",
-    "BSH": null, // oversized, no longer used, ignore
+    "BSH": null,        "__NOTE_BSH": "(oversized, no longer used, ignore)",
     "BND": "PHYSDESC",
-    "AUC": "NOTE", // Auction Date, see also DAT. Type: DATING 
-    "EDN": null, // Edition statement. Treat as <edition> if adds more info
-    "FRE": null, // Publication Frequency note for serials. Type: FREQUENCY
-    "USE": null, // copyright fee note? Ignore
-    "BY": null, // no matches... Edition by. Treat as <edition>
-    "ADD": null, // NOTE
-    "PUB": "NOTE", // MAKE into a note on the Publishing Activity.... statement pattern... Publication, Distribution, etc. note. Type PUBLISHING
-    "REL": "NOTE",      // Relationship with other serials. Type: NOTE
-    "IND": "INDEXING",    // Indexes Note. Type: INDEXING
+    "AUC": "NOTE",      "__NOTE_AUC": "(Auction Date, see also DAT. Type: DATING)",
+    "EDN": null,        "__NOTE_EDN": "(Edition statement. Treat as <edition> if adds more info)",
+    "FRE": null,        "__NOTE_FRE": "(Publication Frequency note for serials. Type: FREQUENCY)",
+    "USE": null,        "__NOTE_USE": "(copyright fee note? Ignore)",
+    "BY": null,         "__NOTE_BY": "(no matches... Edition by. Treat as <edition>)",
+    "ADD": null, 
+    "PUB": "NOTE",      "__NOTE_PUB": "(MAKE into a note on the Publishing Activity.... statement pattern... Publication, Distribution, etc. note. Type PUBLISHING)",
+    "REL": "NOTE",      "__NOTE_REL": "(Relationship with other serials. Type: NOTE)",
+    "IND": "INDEXING",  "__NOTE_IND": "(Indexes Note. Type: INDEXING)",
     "INDEXING": "300054640",
-    "SUM": "DESCRIPTION",  // Summary. Type: DESCRIPTION
-    "AUT": "NOTE", // Authority note. Type: NOTE
-    "CHR": "NOTE", // Chronological (not really?). Type: NOTE
+    "SUM": "DESCRIPTION",  "__NOTE_SUM": "Summary. Type: DESCRIPTION)",
+    "AUT": "NOTE",      "__NOTE_AUT": "(Authority note. Type: NOTE)",
+    "CHR": "NOTE",      "__NOTE_CHR": "(Chronological (not really?). Type: NOTE)",
     "DES": "DESCRIPTION",
-    "ITE": null, // IGNORE Item described. (not really?) Type: NOTE
-    "WIT": "INDEXING",  // "With" note, but all are indexes. Type: INDEXING
-    "CIP": null, // ignore
-    "AUD": null, // ignore
-    "ABS": null, // ignore
-    "CHA": null, // Change of control number, ignore 
-    "HOL": null, // Holdings, ignore
-    "RUN": null, // ignore
-    "SUB": null, // ignore
-    "NUM": null // Numbers borne by the item (e.g. auction catalogs) ignore for now
+    "ITE": null,        "__NOTE_ITE": "(IGNORE Item described. (not really?) Type: NOTE)",
+    "WIT": "INDEXING",  "__NOTE_WIT": "('With' note, but all are indexes. Type: INDEXING)",
+    "CIP": null,
+    "AUD": null,
+    "ABS": null,
+    "CHA": null,        "__NOTE_CHA": "(Change of control number, ignore)",
+    "HOL": null,        "__NOTE_HOL": "(Holdings, ignore)",
+    "RUN": null,
+    "SUB": null,
+    "NUM": null,        "__NOTE_NUM": "(Numbers borne by the item (e.g. auction catalogs) ignore for now)"
 }
