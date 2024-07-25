@@ -1,0 +1,57 @@
+{
+    "local_string_map": {
+        "Tate": "pmc-tate-gallery",
+        "Tate Gallery": "pmc-tate-gallery",
+        "Tate Britain": "pmc-tate-britain",
+        "Tate Britain (Gallery)": "pmc-tate-britain",
+        "Tate Gallery Liverpool": "pmc-tate-liverpool",
+        "Tate Liverpool": "pmc-tate-liverpool",
+        "Tate Modern": "pmc-tate-modern",
+        "Tate Modern (Gallery)": "pmc-tate-modern",
+        "Tate St Ives": "pmc-tate-st-ives",
+        "Tate Photographic Archive": "pmc-tate-photo-archive"
+    },
+    "authorities": [
+        {
+            "identifier": "pmc-tate-gallery",
+            "type": "Group",
+            "label": "Tate Gallery",
+            "viaf": "155600523",
+            "ulan": "500301641"
+        },
+        {
+            "identifier": "pmc-tate-britain",
+            "type": "Group",
+            "label": "Tate Britain",
+            "viaf": "235803538",
+            "ulan": "500266827"
+        },
+        {
+            "identifier": "pmc-tate-modern",
+            "type": "Group",
+            "label": "Tate Modern",
+            "viaf": "158340263",
+            "ulan": "500266826"
+        },
+        {
+            "identifier": "pmc-tate-liverpool",
+            "type": "Group",
+            "label": "Tate Liverpool",
+            "viaf": "122152813",
+            "ulan": "500247777"
+        },
+        {
+            "identifier": "pmc-tate-st-ives",
+            "type": "Group",
+            "label": "Tate St Ives",
+            "viaf": "125538811",
+            "ulan": "500256337"
+        },
+        {
+            "identifier": "pmc-tate-photo-archive",
+            "type": "Group",
+            "label": "Tate Photographic Archive",
+            "pmc": "https://data.paul-mellon-centre.ac.uk/group/tate-photo-archive"
+        }
+    ]
+}
