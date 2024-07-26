@@ -16,7 +16,11 @@
         "National Gallery (Great Britain)": "pmc-national-gallery",
 
         "National Portrait Gallery": "pmc-npg",
-        "National Portrait Gallery (Great Britain)": "pmc-npg"
+        "National Portrait Gallery (Great Britain)": "pmc-npg",
+
+        "Yale Center for British Art": "pmc-ycba",
+
+        "Rijksmuseum (Amsterdam)": "pmc-rijksmuseum"
 
 
     },
@@ -80,6 +84,28 @@
             "ulan": "500226159",
             "loc": "n79113062",
             "lux": "https://lux.collections.yale.edu/data/group/883dfe87-4f68-4b72-8924-8d1f5d1169cf"
+        },
+        
+
+        {
+            "identifier": "pmc-ycba",
+            "type": "Group",
+            "label": "Yale Center for British Art",
+            "ulan": "500303557",
+            "loc": "n77005277",
+            "viaf": "155449049",
+            "lux": "https://lux.collections.yale.edu/data/group/0e8bc04a-6538-4792-b82a-9e0751857e7d"
+        },
+        
+
+        {
+            "identifier": "pmc-rijksmuseum",
+            "type": "Group",
+            "label": "Rijksmuseum (Amsterdam)",
+            "ulan": "500246547",
+            "loc": "n79007489",
+            "viaf": "3858149068449365730007",
+            "lux": "https://lux.collections.yale.edu/data/group/37870dee-ea1f-48e5-b83a-1f7bda5331d2"
         }
     ]
 }
