@@ -9,7 +9,16 @@
         "Tate Modern": "pmc-tate-modern",
         "Tate Modern (Gallery)": "pmc-tate-modern",
         "Tate St Ives": "pmc-tate-st-ives",
-        "Tate Photographic Archive": "pmc-tate-photo-archive"
+        "Tate Photographic Archive": "pmc-tate-photo-archive",
+
+        "National Gallery": "pmc-national-gallery",
+        "The National Gallery": "pmc-national-gallery",
+        "National Gallery (Great Britain)": "pmc-national-gallery",
+
+        "National Portrait Gallery": "pmc-npg",
+        "National Portrait Gallery (Great Britain)": "pmc-npg"
+
+
     },
     "authorities": [
         {
@@ -52,6 +61,25 @@
             "type": "Group",
             "label": "Tate Photographic Archive",
             "pmc": "https://data.paul-mellon-centre.ac.uk/group/tate-photo-archive"
+        },
+
+        {
+            "identifier": "pmc-national-gallery",
+            "type": "Group",
+            "label": "The National Gallery",
+            "ulan": "500125190",
+            "loc": "n80081622",
+            "lux": "https://lux.collections.yale.edu/data/group/ec145935-53e0-4b2e-b663-242a3c42b44f"
+        },
+        
+
+        {
+            "identifier": "pmc-npg",
+            "type": "Group",
+            "label": "The National Portrait Gallery",
+            "ulan": "500226159",
+            "loc": "n79113062",
+            "lux": "https://lux.collections.yale.edu/data/group/883dfe87-4f68-4b72-8924-8d1f5d1169cf"
         }
     ]
 }
