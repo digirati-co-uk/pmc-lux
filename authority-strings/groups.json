@@ -20,7 +20,10 @@
 
         "Yale Center for British Art": "pmc-ycba",
 
-        "Rijksmuseum (Amsterdam)": "pmc-rijksmuseum"
+        "Rijksmuseum (Amsterdam)": "pmc-rijksmuseum",
+
+        "Royal Academy": "pmc-ra",
+        "Royal Academy of Arts": "pmc-ra"
 
 
     },
@@ -106,6 +109,17 @@
             "loc": "n79007489",
             "viaf": "3858149068449365730007",
             "lux": "https://lux.collections.yale.edu/data/group/37870dee-ea1f-48e5-b83a-1f7bda5331d2"
+        },
+        
+
+        {
+            "identifier": "pmc-ra",
+            "type": "Group",
+            "label": "Royal Academy of Arts",
+            "ulan": "500115632",
+            "loc": "n80032672",
+            "viaf": "153543255",
+            "lux": "https://lux.collections.yale.edu/data/group/047db7de-a8d9-484d-bf6e-9f4127900556"
         }
     ]
 }
