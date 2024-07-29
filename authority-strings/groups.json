@@ -23,7 +23,14 @@
         "Rijksmuseum (Amsterdam)": "pmc-rijksmuseum",
 
         "Royal Academy": "pmc-ra",
-        "Royal Academy of Arts": "pmc-ra"
+        "Royal Academy of Arts": "pmc-ra",
+
+        "Marlborough Fine Art Limited": "pmc-marlborough",
+        "Marlborough Fine Art (London)": "pmc-marlborough",
+        "Marlborough Fine Art (London) Ltd": "pmc-marlborough",
+        "Marlborough Fine Art": "pmc-marlborough",
+        "Marlborough Fine Art Ltd": "pmc-marlborough"
+
 
 
     },
@@ -120,6 +127,14 @@
             "loc": "n80032672",
             "viaf": "153543255",
             "lux": "https://lux.collections.yale.edu/data/group/047db7de-a8d9-484d-bf6e-9f4127900556"
+        },
+        
+
+        {
+            "identifier": "pmc-marlborough",
+            "type": "Group",
+            "label": "Marlborough Fine Art Limited",
+            "lux": "https://lux.collections.yale.edu/data/group/f74d900e-3b6a-4823-a432-9a5ce0a287fb"
         }
     ]
 }
