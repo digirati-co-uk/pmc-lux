@@ -32,9 +32,11 @@
         "Marlborough Fine Art Ltd": "pmc-marlborough",
         "Marlborough Fine Art Limited, New London Gallery": "pmc-marlborough",
 
-        "Christie's": "pmc-christies"
-
-
+        "Christie's": "pmc-christies",
+        "Christie & Manson [Christie's]": "pmc-christies",
+        "Christie and Manson [Christie's]": "pmc-christies",
+        "Christie, Manson & Woods": "pmc-christies",
+        "Christie & Manson": "pmc-christies"
 
     },
     "authorities": [
