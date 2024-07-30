@@ -37,8 +37,10 @@
         "Christie and Manson [Christie's]": "pmc-christies",
         "Christie, Manson & Woods": "pmc-christies",
         "Christie & Manson": "pmc-christies",
+        "Mr Christie": "pmc-christies",
 
         "Phillips": "pmc-phillips",
+        "Mr Phillips": "pmc-phillips",
         "Phillip's": "pmc-phillips"
 
     },
