@@ -36,7 +36,10 @@
         "Christie & Manson [Christie's]": "pmc-christies",
         "Christie and Manson [Christie's]": "pmc-christies",
         "Christie, Manson & Woods": "pmc-christies",
-        "Christie & Manson": "pmc-christies"
+        "Christie & Manson": "pmc-christies",
+
+        "Phillips": "pmc-phillips",
+        "Phillip's": "pmc-phillips"
 
     },
     "authorities": [
@@ -145,6 +148,14 @@
             "label": "Christie's",
             "loc": "no97020660",
             "viaf": "130726139"
-        }
+        },
+
+        {
+            "identifier": "pmc-phillips",
+            "type": "Group",
+            "label": "Phillip's",
+            "loc": "n85808342",
+            "viaf": "123198468"
+        } 
     ]
 }
