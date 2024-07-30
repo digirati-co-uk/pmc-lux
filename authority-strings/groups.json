@@ -30,7 +30,9 @@
         "Marlborough Fine Art (London) Ltd": "pmc-marlborough",
         "Marlborough Fine Art": "pmc-marlborough",
         "Marlborough Fine Art Ltd": "pmc-marlborough",
-        "Marlborough Fine Art Limited, New London Gallery": "pmc-marlborough"
+        "Marlborough Fine Art Limited, New London Gallery": "pmc-marlborough",
+
+        "Christie's": "pmc-christies"
 
 
 
@@ -83,8 +85,7 @@
             "type": "Group",
             "label": "The National Gallery",
             "ulan": "500125190",
-            "loc": "n80081622",
-            "lux": "https://lux.collections.yale.edu/data/group/ec145935-53e0-4b2e-b663-242a3c42b44f"
+            "loc": "n80081622"
         },
         
 
@@ -93,8 +94,7 @@
             "type": "Group",
             "label": "The National Portrait Gallery",
             "ulan": "500226159",
-            "loc": "n79113062",
-            "lux": "https://lux.collections.yale.edu/data/group/883dfe87-4f68-4b72-8924-8d1f5d1169cf"
+            "loc": "n79113062"
         },
         
 
@@ -104,8 +104,7 @@
             "label": "Yale Center for British Art",
             "ulan": "500303557",
             "loc": "n77005277",
-            "viaf": "155449049",
-            "lux": "https://lux.collections.yale.edu/data/group/0e8bc04a-6538-4792-b82a-9e0751857e7d"
+            "viaf": "155449049"
         },
         
 
@@ -115,8 +114,7 @@
             "label": "Rijksmuseum (Amsterdam)",
             "ulan": "500246547",
             "loc": "n79007489",
-            "viaf": "3858149068449365730007",
-            "lux": "https://lux.collections.yale.edu/data/group/37870dee-ea1f-48e5-b83a-1f7bda5331d2"
+            "viaf": "3858149068449365730007"
         },
         
 
@@ -126,8 +124,7 @@
             "label": "Royal Academy of Arts",
             "ulan": "500115632",
             "loc": "n80032672",
-            "viaf": "153543255",
-            "lux": "https://lux.collections.yale.edu/data/group/047db7de-a8d9-484d-bf6e-9f4127900556"
+            "viaf": "153543255"
         },
         
 
@@ -135,7 +132,17 @@
             "identifier": "pmc-marlborough",
             "type": "Group",
             "label": "Marlborough Fine Art Limited",
-            "lux": "https://lux.collections.yale.edu/data/group/f74d900e-3b6a-4823-a432-9a5ce0a287fb"
+            "viaf": "149874636",
+            "loc": "n80039695"
+        },
+        
+
+        {
+            "identifier": "pmc-christies",
+            "type": "Group",
+            "label": "Christie's",
+            "loc": "no97020660",
+            "viaf": "130726139"
         }
     ]
 }
