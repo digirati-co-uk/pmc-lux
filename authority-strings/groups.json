@@ -46,6 +46,12 @@
         "National Portrait Gallery": "pmc-npg",
         "National Portrait Gallery (Great Britain)": "pmc-npg",
 
+        "National Trust (Great Britain)": "pmc-national-trust",
+        "The National Trust (Great Britain)": "pmc-national-trust",
+        "The National Trust": "pmc-national-trust",
+        "National Trust": "pmc-national-trust",
+
+
         "Yale Center for British Art": "pmc-ycba",
 
         "Rijksmuseum (Amsterdam)": "pmc-rijksmuseum",
@@ -407,6 +413,14 @@
             "label": "University College London",
             "loc": "n80001195",
             "viaf": "128428569"
+        },
+
+        {
+            "identifier": "pmc-national-trust",
+            "type": "Group",
+            "label": "National Trust (Great Britain)",
+            "loc": "n80085261",
+            "viaf": "152285425"
         }
 
     ]
