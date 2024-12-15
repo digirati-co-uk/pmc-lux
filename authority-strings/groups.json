@@ -11,6 +11,34 @@
         "Tate St Ives": "pmc-tate-st-ives",
         "Tate Photographic Archive": "pmc-tate-photo-archive",
 
+        "British Broadcasting Corporation": "pmc-bbc",
+
+        "British Council": "pmc-british-council",
+        "British Council Collection": "pmc-british-council",
+        "British Council?": "pmc-british-council",
+        "British Council (London)": "pmc-british-council",
+
+        "British Library": "pmc-bl",
+        "The British Library": "pmc-bl",
+        "British Library (London)": "pmc-bl",
+        "British Library Publishing": "pmc-bl",
+
+        "Corporation of London": "pmc-city-of-london-corporation",
+        "Corporation of the City of London": "pmc-city-of-london-corporation",
+        "The Corporation of London": "pmc-city-of-london-corporation",
+        "City of London (England). Corporation": "pmc-city-of-london-corporation",
+        "City of London Corporation": "pmc-city-of-london-corporation",
+
+        "Corporation of Liverpool": "pmc-corporation-of-liverpool",
+
+        "Corporation of Glasgow": "pmc-corporation-of-glasgow",
+        "Corporation of Glasgow, Museums and Art Galleries Department": "pmc-corporation-of-glasgow",
+        "Glasgow (Scotland). Corporation": "pmc-corporation-of-glasgow",
+        "Corporation of the City of Glasgow": "pmc-corporation-of-glasgow",
+
+        "Corporation of Manchester": "pmc-corporation-of-manchester",
+
+
         "National Gallery": "pmc-national-gallery",
         "The National Gallery": "pmc-national-gallery",
         "National Gallery (Great Britain)": "pmc-national-gallery",
@@ -21,9 +49,22 @@
         "Yale Center for British Art": "pmc-ycba",
 
         "Rijksmuseum (Amsterdam)": "pmc-rijksmuseum",
+        "Rijksmuseum (Amsterdam, Netherlands)": "pmc-rijksmuseum",
+        "Rijksmuseum": "pmc-rijksmuseum",
+        "Het Rijksmuseum": "pmc-rijksmuseum",
 
         "Royal Academy": "pmc-ra",
         "Royal Academy of Arts": "pmc-ra",
+
+        "Arts Council": "pmc-arts-council",
+        "Arts Council of Great Britain": "pmc-arts-council",
+        "Arts Council England": "pmc-arts-council",
+        "Arts Council of England": "pmc-arts-council",
+        "The Arts Council": "pmc-arts-council",
+        "The Arts Council of Great Britain": "pmc-arts-council",
+        "Arts Council of Great Britain [etc.]": "pmc-arts-council",
+
+
 
         "Marlborough Fine Art Limited": "pmc-marlborough",
         "Marlborough Fine Art (London)": "pmc-marlborough",
@@ -41,7 +82,79 @@
 
         "Phillips": "pmc-phillips",
         "Mr Phillips": "pmc-phillips",
-        "Phillip's": "pmc-phillips"
+        "Mr H Phillips": "pmc-phillips",
+        "Phillip's": "pmc-phillips",
+        "Phillips, Son & Neale": "pmc-phillips",
+        "Phillips Son & Neale (London, England)": "pmc-phillips",
+        "Phillips Son & Neale": "pmc-phillips",
+
+        "Sothebys": "pmc-sothebys",
+        "Sotheby": "pmc-sothebys",
+        "Sotheby & Co. (London, England)": "pmc-sothebys",
+        "Sotheby & Co": "pmc-sothebys",
+        "Sotheby and Co": "pmc-sothebys",
+        "Sotheby's": "pmc-sothebys",
+        "Sotheby’s": "pmc-sothebys",
+        "Sotheby's (Firm)": "pmc-sothebys",
+
+        "Bonhams (Firm)": "pmc-bonhams",
+        "Bonhams": "pmc-bonhams",
+        "Bonham’s": "pmc-bonhams",
+        "Bonham's": "pmc-bonhams",
+
+        "M. Newman Ltd": "pmc-newman",
+        "M. Newman": "pmc-newman",
+        "Newman Ltd, M. (London)": "pmc-newman",
+        
+
+        "Thos. Agnew & Sons Ltd": "pmc-agnew",
+        "Agnew's": "pmc-agnew",
+        "Thos. Agnew & Son Ltd": "pmc-agnew",
+        "Thos Agnew and Sons": "pmc-agnew",
+        "Thomas Agnew & Sons": "pmc-agnew",
+        "Thomas Agnew & Sons Ltd": "pmc-agnew",
+        "Agnew & Sons": "pmc-agnew",
+        "Thos Agnew & Sons Ltd": "pmc-agnew",
+        "Agnew": "pmc-agnew",
+        "Agnew & Sons Ltd": "pmc-agnew",
+        "Agnew’s Gallery": "pmc-agnew",
+        "Thos Agnew & Sons": "pmc-agnew",
+        "Thos. Agnew & Son": "pmc-agnew",
+        "Agnew's Gallery": "pmc-agnew",
+        "Thomas Agnew and Sons": "pmc-agnew",
+        "Thos. Agnew": "pmc-agnew",
+        "Agnew?": "pmc-agnew",
+        "Thos. Agnew & Sons, Ltd": "pmc-agnew",
+        "Thos. Agnew and sons": "pmc-agnew",
+        "Messrs Thos. Agnew & Sons": "pmc-agnew",
+        "Agnew's (London)": "pmc-agnew",
+        "Thos. Agnew & Sons": "pmc-agnew",
+        "Thos. Agnew and Sons": "pmc-agnew",
+
+        "Mr Foster": "pmc-foster",
+        "Messrs Foster": "pmc-foster",
+        "Messrs. Foster": "pmc-foster",
+        "Foster and Son": "pmc-foster",
+        "Foster": "pmc-foster",
+        "Messers Foster": "pmc-foster",
+        "Mr E D Foster": "pmc-foster",
+        "Mr Edward Foster ?": "pmc-foster",
+        "Mr Edward Foster": "pmc-foster",
+
+        "Science Museum": "pmc-science-museum",
+        "Science Museum (London)": "pmc-science-museum",
+
+        "Mr Squibb and Son": "pmc-squibb",
+        "Mr Squibb & Son": "pmc-squibb",
+
+        "Robinson & Fisher": "pmc-robinson-fisher",
+        "Robinson, Fisher & Co": "pmc-robinson-fisher",
+
+        "University College London": "pmc-ucl",
+        "UCL": "pmc-ucl"
+
+
+
 
     },
     "authorities": [
@@ -158,6 +271,143 @@
             "label": "Phillips",
             "loc": "n85808342",
             "viaf": "123198468"
-        } 
+        },
+        
+        {
+            "identifier": "pmc-sothebys",
+            "type": "Group",
+            "label": "Sotheby's",
+            "ulan": "500304344",
+            "loc": "n84160976",
+            "viaf": "797145858160823022490"
+        },
+        
+        {
+            "identifier": "pmc-bonhams",
+            "type": "Group",
+            "label": "Bonhams",
+            "loc": "no97045129",
+            "viaf": "153844067"
+        },
+        
+        {
+            "identifier": "pmc-city-of-london-corporation",
+            "type": "Group",
+            "label": "City of London Corporation",
+            "loc": "n50041718",
+            "viaf": "148434292"
+        },
+        
+        {
+            "identifier": "pmc-corporation-of-liverpool",
+            "type": "Group",
+            "label": "Corporation of Liverpool",
+            "loc": "nb2013015737",
+            "viaf": "305030842"
+        },
+        
+        {
+            "identifier": "pmc-corporation-of-glasgow",
+            "type": "Group",
+            "label": "Corporation of Glasgow",
+            "loc": "nb2004310932",
+            "viaf": "152451809"
+        },
+        
+        {
+            "identifier": "pmc-corporation-of-manchester",
+            "type": "Group",
+            "label": "Corporation of Manchester",
+            "loc": "n2008077403",
+            "viaf": "150325406"
+        },
+        
+        {
+            "identifier": "pmc-bbc",
+            "type": "Group",
+            "label": "British Broadcasting Corporation",
+            "loc": "n79074359",
+            "viaf": "127458402"
+        },
+        
+        {
+            "identifier": "pmc-british-council",
+            "type": "Group",
+            "label": "British Council",
+            "loc": "n80050498",
+            "viaf": "147158025"
+        },
+
+        {
+            "identifier": "pmc-agnew",
+            "type": "Group",
+            "label": "Thomas Agnew & Sons",
+            "loc": "n2003087542",
+            "viaf": "123733622"
+        },
+
+
+        {
+            "identifier": "pmc-foster",
+            "type": "Group",
+            "label": "Foster and Son (London, England)",
+            "loc": "no2001070494",
+            "viaf": "148078679"
+        },
+
+        {
+            "identifier": "pmc-newman",
+            "type": "Group",
+            "label": "M. Newman, Ltd. (London)"
+        },
+
+        {
+            "identifier": "pmc-science-museum",
+            "type": "Group",
+            "label": "Science Museum (Great Britain)",
+            "loc": "n79066251",
+            "viaf": "130803673"
+        },
+
+        {
+            "identifier": "pmc-squibb",
+            "type": "Group",
+            "label": "Squibb and Son (Auctioneers)",
+            "loc": "nr2003030132",
+            "viaf": "155241294"
+        },
+
+        {
+            "identifier": "pmc-robinson-fisher",
+            "type": "Group",
+            "label": "Robinson & Fisher",
+            "loc": "no2001066386",
+            "viaf": "125304008"
+        },
+
+        {
+            "identifier": "pmc-arts-council",
+            "type": "Group",
+            "label": "Arts Council England",
+            "loc": "no2004079316",
+            "viaf": "143603950"
+        },
+
+        {
+            "identifier": "pmc-bl",
+            "type": "Group",
+            "label": "British Library",
+            "loc": "n81139951",
+            "viaf": "121814978"
+        },
+
+        {
+            "identifier": "pmc-ucl",
+            "type": "Group",
+            "label": "University College London",
+            "loc": "n80001195",
+            "viaf": "128428569"
+        }
+
     ]
 }
