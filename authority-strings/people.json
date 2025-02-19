@@ -22,8 +22,12 @@
         "Baker, Malcolm, 1945-": "pmc-malcolm-baker",
 
         "Benthall; Gilbert (1880-1961), 1880-1961": "pmc-gilbert-benthall",
-        "Benthall, Gilbert": "pmc-gilbert-benthall"
+        "Benthall, Gilbert": "pmc-gilbert-benthall",
 
+        "William George Constable, 1887-1976": "pmc-w-g-constable",
+        "William George Constable (1887-1976)": "pmc-w-g-constable",
+        "Constable, W. G. (William George), 1887-": "pmc-w-g-constable",   
+        "W. G. Constable": "pmc-w-g-constable"
     
     },
     "authorities": [
@@ -62,6 +66,14 @@
             "type": "Individual",
             "label": "Gilbert Benthall",
             "wikidata": "Q106751849"
-        } 
+        },
+
+        {
+            "identifier": "pmc-w-g-constable",
+            "type": "Individual",
+            "label": "W. G. Constable",
+            "loc": "n80007765"
+        }
+        
     ]
 }
