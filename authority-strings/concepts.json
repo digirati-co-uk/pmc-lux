@@ -1,0 +1,12 @@
+{
+    "local_string_map": {
+        "Pre--Raphaelitism": "pmc-pre-raphaelitism"
+    },
+    "authorities": [
+        {
+            "identifier": "pmc-pre-raphaelitism",
+            "type": "Concept",
+            "label": "Pre-Raphaelitism",
+            "loc": "sh85106392"
+        }
+}
