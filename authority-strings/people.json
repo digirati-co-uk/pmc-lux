@@ -43,7 +43,12 @@
         "John Ingamells, 1934-2013": "pmc-john-ingamells",
         "John Anderson Stuart Ingamells": "pmc-john-ingamells",
 
-        "Joyce, Paul R": "pmc-paul-joyce"
+        "Joyce, Paul R": "pmc-paul-joyce",
+
+        "Kerney, Michael, 1934-2022": "pmc-michael-kerney",
+        "Michael Kerney": "pmc-michael-kerney", 
+        "Michael P. Kerney": "pmc-michael-kerney",
+        "Dr Michael Kerney": "pmc-michael-kerney"
 
     },
     "authorities": [
@@ -119,7 +124,14 @@
             "type": "Individual",
             "label": "Paul R. Joyce",
             "wikidata": "Q48816170"
-        }   
+        },   
 
+        {
+            "identifier": "pmc-michael-kerney",
+            "type": "Individual",
+            "label": "Michael Kerney",
+            "viaf": "66634116",
+            "loc": "n83064447"
+        }
     ]
 }
