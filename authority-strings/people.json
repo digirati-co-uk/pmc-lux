@@ -16,7 +16,10 @@
         "William John Packer (b.1940)": "pmc-william-packer",
         "William John Packer": "pmc-william-packer",
         "William J. Packer": "pmc-william-packer",
-        "William John Packer (1940-)":  "pmc-william-packer"
+        "William John Packer (1940-)":  "pmc-william-packer",
+
+        "Baker, Malcolm, 1945-, 1945-": "pmc-malcolm-baker",
+        "Baker, Malcolm, 1945-": "pmc-malcolm-baker"
     
     },
     "authorities": [
@@ -41,6 +44,13 @@
             "type": "Individual",
             "label": "William Packer",
             "viaf": "113212618"
-        }
+        },
+
+        {
+            "identifier": "pmc-malcolm-baker",
+            "type": "Individual",
+            "label": "Malcolm Baker",
+            "loc": "no2014117306"
+        } 
     ]
 }
