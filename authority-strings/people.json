@@ -59,7 +59,12 @@
         "Sharp; Dennis Charles (1933-2010)": "pmc-dennis-sharp",
 
         "Waterfield, Humphrey": "pmc-humphrey-waterfield",
-        "Waterfield, Derick Humphrey": "pmc-humphrey-waterfield"
+        "Waterfield, Derick Humphrey": "pmc-humphrey-waterfield",
+
+        "Lucy Wertheim": "pmc-lucy-wertheim",
+        "Lucy Carrington Wertheim": "pmc-lucy-wertheim",
+        "Wertheim, Lucy Carrington": "pmc-lucy-wertheim",
+        "Wertheim, Lucy C.": "pmc-lucy-wertheim"
 
     },
     "authorities": [
@@ -164,6 +169,15 @@
             "type": "Individual",
             "label": "Humphrey Waterfield",
             "viaf": "13663955"
+        },
+        
+        {
+            "identifier": "pmc-lucy-wertheim",
+            "type": "Individual",
+            "label": "Lucy Wertheim",
+            "viaf": "68445913",
+            "loc": "nb2004301892"
         } 
+
     ]
 }
