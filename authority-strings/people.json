@@ -37,7 +37,11 @@
         "Sir (Richard) Brinsley Ford": "pmc-brinsley-ford",
 
         "Haldin; Daphne Louise (18991973)": "pmc-daphne-haldin",
-        "Haldin, Daphne": "pmc-daphne-haldin"
+        "Haldin, Daphne": "pmc-daphne-haldin",
+
+        "John Ingamells": "pmc-john-ingamells",
+        "John Ingamells, 1934-2013": "pmc-john-ingamells",
+        "John Anderson Stuart Ingamells": "pmc-john-ingamells"
 
     },
     "authorities": [
@@ -98,6 +102,14 @@
             "type": "Individual",
             "label": "Daphne Haldin",
             "wikidata": "Q24284452"
+        },
+
+        {
+            "identifier": "pmc-john-ingamells",
+            "type": "Individual",
+            "label": "John Ingamells",
+            "loc": "n83225898",
+            "viaf": "9891237"
         }
 
     ]
