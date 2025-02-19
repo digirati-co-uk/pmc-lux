@@ -10,8 +10,14 @@
         "Auerbach": "pmc-auerbach",
         "Frank Auerbach": "pmc-auerbach",
         "F. Auerbach": "pmc-auerbach",
-        "Auerbach, Frank, 1931-": "pmc-auerbach"
+        "Auerbach, Frank, 1931-": "pmc-auerbach",
 
+        "Packer, William (author)": "pmc-william-packer",
+        "William John Packer (b.1940)": "pmc-william-packer",
+        "William John Packer": "pmc-william-packer",
+        "William J. Packer": "pmc-william-packer",
+        "William John Packer (1940-)":  "pmc-william-packer"
+    
     },
     "authorities": [
         {
@@ -28,7 +34,13 @@
             "label": "Frank Auerbach",
             "viaf": "22150864",
             "loc": "n83038772"
-        }
+        },
 
+        {
+            "identifier": "pmc-william-packer",
+            "type": "Individual",
+            "label": "William Packer",
+            "viaf": "113212618"
+        }
     ]
 }
