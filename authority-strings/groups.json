@@ -158,9 +158,9 @@
         "Robinson, Fisher & Co": "pmc-robinson-fisher",
 
         "University College London": "pmc-ucl",
-        "UCL": "pmc-ucl"
+        "UCL": "pmc-ucl",
 
-
+        "Americans": "pmc-americans"
 
 
     },
@@ -422,6 +422,13 @@
             "label": "National Trust (Great Britain)",
             "loc": "n80085261",
             "viaf": "152285425"
+        },
+
+        {
+            "identifier": "pmc-americans",
+            "type": "Group",
+            "label": "Americans",
+            "loc": "sh85004432"
         }
 
     ]
