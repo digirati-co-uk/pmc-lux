@@ -48,7 +48,11 @@
         "Kerney, Michael, 1934-2022": "pmc-michael-kerney",
         "Michael Kerney": "pmc-michael-kerney", 
         "Michael P. Kerney": "pmc-michael-kerney",
-        "Dr Michael Kerney": "pmc-michael-kerney"
+        "Dr Michael Kerney": "pmc-michael-kerney",
+
+        "Charles S. Rhyne": "pmc-charles-rhyne",
+        "Rhyne, Charles, 1932-2013": "pmc-charles-rhyne",
+        "Rhyne, Charles S.": "pmc-charles-rhyne"
 
     },
     "authorities": [
@@ -132,6 +136,13 @@
             "label": "Michael Kerney",
             "viaf": "66634116",
             "loc": "n83064447"
-        }
+        },
+
+        {
+            "identifier": "pmc-charles-rhyne",
+            "type": "Individual",
+            "label": "Charles S. Rhyne",
+            "viaf": "34300400"
+        } 
     ]
 }
