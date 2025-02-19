@@ -41,7 +41,9 @@
 
         "John Ingamells": "pmc-john-ingamells",
         "John Ingamells, 1934-2013": "pmc-john-ingamells",
-        "John Anderson Stuart Ingamells": "pmc-john-ingamells"
+        "John Anderson Stuart Ingamells": "pmc-john-ingamells",
+
+        "Joyce, Paul R": "pmc-paul-joyce"
 
     },
     "authorities": [
@@ -110,7 +112,14 @@
             "label": "John Ingamells",
             "loc": "n83225898",
             "viaf": "9891237"
-        }
+        },
+
+        {
+            "identifier": "pmc-paul-joyce",
+            "type": "Individual",
+            "label": "Paul R. Joyce",
+            "wikidata": "Q48816170"
+        }   
 
     ]
 }
