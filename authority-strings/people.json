@@ -1,9 +1,183 @@
 {
     "local_string_map": {
-        
+        "Hamilton, Alec": "pmc-alec-hamilton",
+        "Alec Hamilton": "pmc-alec-hamilton",
+        "Alec Hamilton": "pmc-alec-hamilton",
+        "Hamilton, Alec, 1949-": "pmc-alec-hamilton",
+        "Alexander Graham Hamilton": "pmc-alec-hamilton",
+
+        "Frank Helmut Auerbach, 1931-2024": "pmc-auerbach",
+        "Auerbach": "pmc-auerbach",
+        "Frank Auerbach": "pmc-auerbach",
+        "F. Auerbach": "pmc-auerbach",
+        "Auerbach, Frank, 1931-": "pmc-auerbach",
+
+        "Packer, William (author)": "pmc-william-packer",
+        "William John Packer (b.1940)": "pmc-william-packer",
+        "William John Packer": "pmc-william-packer",
+        "William J. Packer": "pmc-william-packer",
+        "William John Packer (1940-)":  "pmc-william-packer",
+
+        "Baker, Malcolm, 1945-, 1945-": "pmc-malcolm-baker",
+        "Baker, Malcolm, 1945-": "pmc-malcolm-baker",
+
+        "Benthall; Gilbert (1880-1961), 1880-1961": "pmc-gilbert-benthall",
+        "Benthall, Gilbert": "pmc-gilbert-benthall",
+
+        "William George Constable, 1887-1976": "pmc-w-g-constable",
+        "William George Constable (1887-1976)": "pmc-w-g-constable",
+        "Constable, W. G. (William George), 1887-": "pmc-w-g-constable",   
+        "W. G. Constable": "pmc-w-g-constable",
+
+        "Ford; Sir; Richard Brinsley (1908-1999), 1908-1999": "pmc-brinsley-ford",
+        "Ford; Sir; Richard Brinsley (1908-1999)": "pmc-brinsley-ford",
+        "Ford, Richard Brinsley, 1908-": "pmc-brinsley-ford",
+        "Ford, Brinsley, 1908-1999": "pmc-brinsley-ford",
+        "Ford, Brinsley": "pmc-brinsley-ford",
+        "Sir (Richard) Brinsley Ford": "pmc-brinsley-ford",
+
+        "Haldin; Daphne Louise (18991973)": "pmc-daphne-haldin",
+        "Haldin, Daphne": "pmc-daphne-haldin",
+
+        "John Ingamells": "pmc-john-ingamells",
+        "John Ingamells, 1934-2013": "pmc-john-ingamells",
+        "John Anderson Stuart Ingamells": "pmc-john-ingamells",
+
+        "Joyce, Paul R": "pmc-paul-joyce",
+
+        "Kerney, Michael, 1934-2022": "pmc-michael-kerney",
+        "Michael Kerney": "pmc-michael-kerney", 
+        "Michael P. Kerney": "pmc-michael-kerney",
+        "Dr Michael Kerney": "pmc-michael-kerney",
+
+        "Charles S. Rhyne": "pmc-charles-rhyne",
+        "Rhyne, Charles, 1932-2013": "pmc-charles-rhyne",
+        "Rhyne, Charles S.": "pmc-charles-rhyne",
+
+        "Dennis Sharp": "pmc-dennis-sharp",
+        "Dennis Sharp, 1933-2010": "pmc-dennis-sharp",
+        "Sharp; Dennis Charles (1933-2010)": "pmc-dennis-sharp",
+
+        "Waterfield, Humphrey": "pmc-humphrey-waterfield",
+        "Waterfield, Derick Humphrey": "pmc-humphrey-waterfield",
+
+        "Lucy Wertheim": "pmc-lucy-wertheim",
+        "Lucy Carrington Wertheim": "pmc-lucy-wertheim",
+        "Wertheim, Lucy Carrington": "pmc-lucy-wertheim",
+        "Wertheim, Lucy C.": "pmc-lucy-wertheim"
 
     },
     "authorities": [
+        {
+            "identifier": "pmc-alec-hamilton",
+            "type": "Individual",
+            "label": "Alec Hamilton",
+            "viaf": "296806600",
+            "loc": "296806600"
+        },
         
+        {
+            "identifier": "pmc-auerbach",
+            "type": "Individual",
+            "label": "Frank Auerbach",
+            "viaf": "22150864",
+            "loc": "n83038772"
+        },
+
+        {
+            "identifier": "pmc-william-packer",
+            "type": "Individual",
+            "label": "William Packer",
+            "viaf": "113212618"
+        },
+
+        {
+            "identifier": "pmc-malcolm-baker",
+            "type": "Individual",
+            "label": "Malcolm Baker",
+            "loc": "no2014117306"
+        },
+        
+        {
+            "identifier": "pmc-gilbert-benthall",
+            "type": "Individual",
+            "label": "Gilbert Benthall",
+            "wikidata": "Q106751849"
+        },
+
+        {
+            "identifier": "pmc-w-g-constable",
+            "type": "Individual",
+            "label": "W. G. Constable",
+            "loc": "n80007765"
+        },
+
+        {
+            "identifier": "pmc-brinsley-ford",
+            "type": "Individual",
+            "label": "Brinsley Ford",
+            "loc": "no92029550",
+            "viaf": "315522957"
+        },
+        
+        {
+            "identifier": "pmc-daphne-haldin",
+            "type": "Individual",
+            "label": "Daphne Haldin",
+            "wikidata": "Q24284452"
+        },
+
+        {
+            "identifier": "pmc-john-ingamells",
+            "type": "Individual",
+            "label": "John Ingamells",
+            "loc": "n83225898",
+            "viaf": "9891237"
+        },
+
+        {
+            "identifier": "pmc-paul-joyce",
+            "type": "Individual",
+            "label": "Paul R. Joyce",
+            "wikidata": "Q48816170"
+        },   
+
+        {
+            "identifier": "pmc-michael-kerney",
+            "type": "Individual",
+            "label": "Michael Kerney",
+            "viaf": "66634116",
+            "loc": "n83064447"
+        },
+
+        {
+            "identifier": "pmc-charles-rhyne",
+            "type": "Individual",
+            "label": "Charles S. Rhyne",
+            "viaf": "34300400"
+        },
+        
+        {
+            "identifier": "pmc-dennis-sharp",
+            "type": "Individual",
+            "label": "Dennis Sharp",
+            "loc": "n50022232"
+        },
+        
+        {
+            "identifier": "pmc-humphrey-waterfield",
+            "type": "Individual",
+            "label": "Humphrey Waterfield",
+            "viaf": "13663955"
+        },
+        
+        {
+            "identifier": "pmc-lucy-wertheim",
+            "type": "Individual",
+            "label": "Lucy Wertheim",
+            "viaf": "68445913",
+            "loc": "nb2004301892"
+        } 
+
     ]
 }

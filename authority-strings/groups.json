@@ -158,10 +158,12 @@
         "Robinson, Fisher & Co": "pmc-robinson-fisher",
 
         "University College London": "pmc-ucl",
-        "UCL": "pmc-ucl"
+        "UCL": "pmc-ucl",
 
+        "Americans": "pmc-americans",
 
-
+        "Fry Gallery": "pmc-fry-gallery",
+        "Fry Art Gallery, 1985-": "pmc-fry-gallery"
 
     },
     "authorities": [
@@ -422,6 +424,20 @@
             "label": "National Trust (Great Britain)",
             "loc": "n80085261",
             "viaf": "152285425"
+        },
+
+        {
+            "identifier": "pmc-americans",
+            "type": "Group",
+            "label": "Americans",
+            "loc": "sh85004432"
+        },
+
+        {
+            "identifier": "pmc-fry-gallery",
+            "type": "Group",
+            "label": "Fry Gallery",
+            "loc": "nb2005018148"
         }
 
     ]
