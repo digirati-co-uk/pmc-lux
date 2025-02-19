@@ -19,7 +19,11 @@
         "William John Packer (1940-)":  "pmc-william-packer",
 
         "Baker, Malcolm, 1945-, 1945-": "pmc-malcolm-baker",
-        "Baker, Malcolm, 1945-": "pmc-malcolm-baker"
+        "Baker, Malcolm, 1945-": "pmc-malcolm-baker",
+
+        "Benthall; Gilbert (1880-1961), 1880-1961": "pmc-gilbert-benthall",
+        "Benthall, Gilbert": "pmc-gilbert-benthall"
+
     
     },
     "authorities": [
@@ -51,6 +55,13 @@
             "type": "Individual",
             "label": "Malcolm Baker",
             "loc": "no2014117306"
+        },
+        
+        {
+            "identifier": "pmc-gilbert-benthall",
+            "type": "Individual",
+            "label": "Gilbert Benthall",
+            "wikidata": "Q106751849"
         } 
     ]
 }
