@@ -2,9 +2,15 @@
     "local_string_map": {
         "Hamilton, Alec": "pmc-alec-hamilton",
         "Alec Hamilton": "pmc-alec-hamilton",
-        "Alec Hamilton": "pmc-alec-hamilton"
-        "Hamilton, Alec, 1949-": "pmc-alec-hamilton"
-        "Alexander Graham Hamilton": "pmc-alec-hamilton"
+        "Alec Hamilton": "pmc-alec-hamilton",
+        "Hamilton, Alec, 1949-": "pmc-alec-hamilton",
+        "Alexander Graham Hamilton": "pmc-alec-hamilton",
+
+        "Frank Helmut Auerbach, 1931-2024": "pmc-auerbach",
+        "Auerbach": "pmc-auerbach",
+        "Frank Auerbach": "pmc-auerbach",
+        "F. Auerbach": "pmc-auerbach",
+        "Auerbach, Frank, 1931-": "pmc-auerbach"
 
     },
     "authorities": [
@@ -14,6 +20,15 @@
             "label": "Alec Hamilton",
             "viaf": "296806600",
             "loc": "296806600"
-        } 
+        },
+        
+        {
+            "identifier": "pmc-auerbach",
+            "type": "Individual",
+            "label": "Frank Auerbach",
+            "viaf": "22150864",
+            "loc": "n83038772"
+        }
+
     ]
 }
