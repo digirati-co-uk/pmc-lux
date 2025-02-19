@@ -56,7 +56,10 @@
 
         "Dennis Sharp": "pmc-dennis-sharp",
         "Dennis Sharp, 1933-2010": "pmc-dennis-sharp",
-        "Sharp; Dennis Charles (1933-2010)": "pmc-dennis-sharp"
+        "Sharp; Dennis Charles (1933-2010)": "pmc-dennis-sharp",
+
+        "Waterfield, Humphrey": "pmc-humphrey-waterfield",
+        "Waterfield, Derick Humphrey": "pmc-humphrey-waterfield"
 
     },
     "authorities": [
@@ -154,6 +157,13 @@
             "type": "Individual",
             "label": "Dennis Sharp",
             "loc": "n50022232"
-        }     
+        },
+        
+        {
+            "identifier": "pmc-humphrey-waterfield",
+            "type": "Individual",
+            "label": "Humphrey Waterfield",
+            "viaf": "13663955"
+        } 
     ]
 }
