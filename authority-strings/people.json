@@ -52,7 +52,11 @@
 
         "Charles S. Rhyne": "pmc-charles-rhyne",
         "Rhyne, Charles, 1932-2013": "pmc-charles-rhyne",
-        "Rhyne, Charles S.": "pmc-charles-rhyne"
+        "Rhyne, Charles S.": "pmc-charles-rhyne",
+
+        "Dennis Sharp": "pmc-dennis-sharp",
+        "Dennis Sharp, 1933-2010": "pmc-dennis-sharp",
+        "Sharp; Dennis Charles (1933-2010)": "pmc-dennis-sharp"
 
     },
     "authorities": [
@@ -143,6 +147,13 @@
             "type": "Individual",
             "label": "Charles S. Rhyne",
             "viaf": "34300400"
-        } 
+        },
+        
+        {
+            "identifier": "pmc-dennis-sharp",
+            "type": "Individual",
+            "label": "Dennis Sharp",
+            "loc": "n50022232"
+        }     
     ]
 }
