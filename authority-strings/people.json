@@ -34,7 +34,10 @@
         "Ford, Richard Brinsley, 1908-": "pmc-brinsley-ford",
         "Ford, Brinsley, 1908-1999": "pmc-brinsley-ford",
         "Ford, Brinsley": "pmc-brinsley-ford",
-        "Sir (Richard) Brinsley Ford": "pmc-brinsley-ford"
+        "Sir (Richard) Brinsley Ford": "pmc-brinsley-ford",
+
+        "Haldin; Daphne Louise (18991973)": "pmc-daphne-haldin",
+        "Haldin, Daphne": "pmc-daphne-haldin"
 
     },
     "authorities": [
@@ -88,6 +91,13 @@
             "label": "Brinsley Ford",
             "loc": "no92029550",
             "viaf": "315522957"
+        },
+        
+        {
+            "identifier": "pmc-daphne-haldin",
+            "type": "Individual",
+            "label": "Daphne Haldin",
+            "wikidata": "Q24284452"
         }
 
     ]
