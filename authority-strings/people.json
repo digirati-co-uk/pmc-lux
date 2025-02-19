@@ -1,9 +1,19 @@
 {
     "local_string_map": {
-        
+        "Hamilton, Alec": "pmc-alec-hamilton",
+        "Alec Hamilton": "pmc-alec-hamilton",
+        "Alec Hamilton": "pmc-alec-hamilton"
+        "Hamilton, Alec, 1949-": "pmc-alec-hamilton"
+        "Alexander Graham Hamilton": "pmc-alec-hamilton"
 
     },
     "authorities": [
-        
+        {
+            "identifier": "pmc-alec-hamilton",
+            "type": "Individual",
+            "label": "Alec Hamilton",
+            "viaf": "296806600",
+            "loc": "296806600"
+        } 
     ]
 }
